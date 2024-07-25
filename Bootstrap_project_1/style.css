@@ -1,0 +1,24 @@
+.navbar-dark .collapse .nav-link
+{
+        color:rgb(255,255,255) !important;
+        font-weight:500 ;
+}
+
+.carousel .carousel-inner .carousel-item img{
+        height:400px;
+       
+        
+}
+
+.carousel .carousel-inner .carousel-item h5{
+        color:black;
+        font-weight:bold;
+}
+
+.carousel .carousel-inner .carousel-item p{
+        color:black;
+        font-size: medium;
+        font-weight: 500;
+}
+
+
